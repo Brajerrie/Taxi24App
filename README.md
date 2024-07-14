@@ -84,7 +84,7 @@ Before you begin, ensure you have met the following requirements:
     dotnet run
     ```
 
-    By default, the application will run on `http://localhost:5000` and `https://localhost:5015`.
+    By default, the application will run on `http://localhost:5015` and `https://localhost:7265`.
 
 ## Applying Migrations
 
