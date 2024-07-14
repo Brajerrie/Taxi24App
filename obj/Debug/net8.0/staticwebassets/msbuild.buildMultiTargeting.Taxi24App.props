@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Taxi24App.props" />
+</Project>
